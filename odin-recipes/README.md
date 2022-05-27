@@ -1,0 +1,1 @@
+This is my first html project. This is based on a recipe website, and I have showcased skills such as showing my commits when updating in my repo, and applying the code I have learnt into these pages. I have really enjoyed seeing the code I apply show in real-life. 
