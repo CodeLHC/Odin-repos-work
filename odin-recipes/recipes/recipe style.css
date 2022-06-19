@@ -1,0 +1,23 @@
+.focaccia {
+    width: 200px;
+    height: auto;
+}
+#title {
+    color: #e0bbe4;
+    text-align: center;
+    font-size: 48px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold
+}
+.intro {
+    color: #8957da;
+}
+
+.header {
+    color: #fec8d8;
+    background-color: #d291bc;
+    width:fit-content;
+}
+.steps{
+    color: #e0bbe4;
+}
