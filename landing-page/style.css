@@ -59,7 +59,34 @@ h1 {
 
 
 /* section two */
+.sectwo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.h2 {
+    font-size: 34px;
+    font-weight: bold;
+    color: #a2d2ff;
+}
+
+.plantpics {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.plant {
+    width: 140px;
+    margin: 60px;
+    border: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+    gap: 15px;
+}
 
 /* section three */
 
