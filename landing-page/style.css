@@ -106,7 +106,6 @@ h1 {
     width: 900px;
 }
 
-
 .quotebox>strong {
     display: flex;
     align-self: flex-end;
@@ -114,8 +113,42 @@ h1 {
 }
 
 /* section four */
+.secfour {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+
+}
+
+.signupbox {
+    background-color: #ffafcc;
+    width: 800px;
+    height: 100px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.centerbox {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    color: #f9faf8;
+    align-items: center;
+    font-size: 20px;
+}
+
+.signtext>p {
+    margin: 8px;
+    margin-left: 0px;
+}
 
 /* footer */
 .footer {
     background-color: #ffc8dd;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
 }
