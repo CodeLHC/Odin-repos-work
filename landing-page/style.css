@@ -89,6 +89,24 @@ h1 {
 }
 
 /* section three */
+.secthree {
+    background-color: #bde0fe;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 36px;
+    color: #f9faf8;
+}
+
+.secthree>em {
+    width: 800px;
+}
+
+.secthree>strong {
+    display: flex;
+    align-self: flex-end;
+
+}
 
 /* section four */
 
